@@ -1,0 +1,3 @@
+class SaveMgr {
+  SaveMgr() {}
+};
