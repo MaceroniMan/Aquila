@@ -1,5 +1,5 @@
 #include "include/save_mgr.hpp"
 
-SaveMgr::SaveMgr() {
+Aquila::SaveMgr::SaveMgr() {
   
 }

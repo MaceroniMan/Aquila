@@ -8,7 +8,8 @@ Aquila::Menu::Menu(Screen screen, string menu_string, TD_MENU_ARR layout, TD_MEN
 }
 
 void Aquila::Menu::_up() {
-
+  i_cordinate.y -= 1;
+  if (i_cordinate.y > )
 }
 void Aquila::Menu::_down() {
 
