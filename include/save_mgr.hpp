@@ -1,3 +1,5 @@
-class SaveMgr {
-  SaveMgr() {}
-};
+namespace Aquila {
+  class SaveMgr {
+    SaveMgr() {}
+  };
+}
